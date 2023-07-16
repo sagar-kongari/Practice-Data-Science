@@ -5,6 +5,8 @@ Clustering is a type of unsupervised machine learning in which the algorithm pro
 
 Access dataset and notebook [here](content/customer_segmentation)
 
+![cluster](content/customer_segmentation/img.png)
+
 ## 📰 Sentiment Analysis using NLTK
 Sentiment analysis is the process of classifying whether a block of text is positive, negative, or, neutral. The goal which Sentiment analysis tries to gain is to be analyzed people’s opinions in a way that can help businesses expand. It focuses not only on polarity (positive, negative & neutral) but also on emotions (happy, sad, angry, etc.). It uses various Natural Language Processing algorithms such as Rule-based, Automatic, and Hybrid.
 
@@ -14,6 +16,8 @@ Access dataset and notebook [here](content/sentiment_analysis)
 | Logistic Regression | 82.93% |
 | Gaussian Naive-Bayes | 59.62% |
 | XGBClassifier | 80.90% |
+
+![wordcloud](content/sentiment_analysis/img.png)
 
 ## 📫 Spam Mail Detection
 
